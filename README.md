@@ -15,14 +15,14 @@ Basic implementation of auto-mower test in order to discuss technical matters.
 ## To build and run the app :
 
 ```bash
-cd ./auto-mowers
+cd ./Code
 dotnet publish ./auto-mowers
 dotnet run --project ./auto-mowers --filepath ../Examples/Valid_Example_0.txt
 ```
 ## to run unit tests : 
 
 ```bash
-cd ./auto-mowers
+cd ./Code
 dotnet test ./auto-mowers-unit-test
 ```
 
