@@ -5,7 +5,6 @@ Basic implementation of auto-mower test in order to discuss technical matters.
 2. [Specifications](/1_SPECS.md)
 3. [Todo](/2_TODO.md)
 
-
 ## Users Manual 
 
 - Techno : .NET 6  c# console APP 
