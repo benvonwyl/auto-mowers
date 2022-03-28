@@ -31,6 +31,30 @@ dotnet test ./auto-mowers-unit-test
 ### filepath
 A file path must be specifed with the option --filepath 
 
+if it doesnt the console will display suggestion : 
+
+```bash 
+>> dotnet run --project auto-mowers --wrongArg ./somepath
+auto-mowers 1.0.0
+Copyright (C) 2022 auto-mowers
+
+ERROR(S):
+  Option 'wrongArg' is unknown.
+  Required option 'filepath' is missing.
+
+  --filepath    Required.
+
+  --help        Display this help screen.
+
+  --version     Display version information.
+
+Error During Execution: Invalid Program Args Parsing. 2 errors in Command Line, arguments are not valid
+
+
+```
+
+meantime the result of the program will be an arror string
+
 ### fileformat
 - Lawn is Seen as a grid, bottom left angle (0,0), top right corner (Xmax,Ymax)
   - first line contains (Xmax,Ymax)
