@@ -80,7 +80,10 @@ Techno :  *.NET 6*
 
 The need is very basic, we can imagine an app in two layers but that can stay evolutive
 
-![image](https://user-images.githubusercontent.com/24774300/160396061-ce8ca750-4e4d-4cc1-968e-df4a981fb8ab.png)
+If image doesnt display, shut down cdiscount VPN
+![image](https://user-images.githubusercontent.com/24774300/160396061-ce8ca750-4e4d-4cc1-968e-df4a981fb8ab.png) 
+
+
 
 - the business layer will be on chargez to manage Lawns, Mowers, and Mowers Movements, and Their associated business rules
   - recording of lawns and validation of lawn size
