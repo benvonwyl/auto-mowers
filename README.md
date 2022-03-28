@@ -3,7 +3,7 @@ Basic implementation of auto-mower test in order to discuss technical matters.
 
 1. [Analysis and comments of the needs](/0_NEEDS_ANALYSIS.md)
 2. [Specs](/1_SPECS.md)
-3. [TODO](/TODO.md)
+3. [TODO](/2_TODO.md)
 
 
 ## Users Manual 
