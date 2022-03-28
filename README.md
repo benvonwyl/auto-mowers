@@ -29,7 +29,7 @@ dotnet test ./auto-mowers-unit-test
 ## Inputs 
 
 ### filepath
-A file path must be specifed with the option --filepath 
+A file path must be specifed with the arg --filepath 
 
 if it doesnt the console will display suggestion : 
 
