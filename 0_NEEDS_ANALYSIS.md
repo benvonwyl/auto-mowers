@@ -122,7 +122,7 @@ It will be provided :
     - won't constraint the sepcification and could realistically be operational live in production
     - can realistically evolve
     - can be easily replaced ( api )
-    - ~~ that fit my main tech and meet some performances requirements ( that we can guess at least ) ~~ 
+    - ~~that fit my main tech and meet some performances requirements ( that we can guess at least )~~
     - I choose .NETCORE because i've been able to use it only once  
 - user manual
 - suggestions / todo 
